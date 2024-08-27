@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+Enunciado
+Objetivo: Desenvolver um sistema de gerenciamento de estoque em Python que permita ao usuário adicionar, atualizar, remover produtos e visualizar o estoque atual.
+
+Instruções:
+
+Crie um programa em Python com as seguintes funcionalidades:
+Adicionar um novo produto ao estoque.
+Atualizar a quantidade de um produto existente.
+Remover um produto do estoque.
+Exibir o estoque atual.
+O programa deve apresentar um menu interativo para que o usuário selecione as opções desejadas.
+Utilize um dicionário para armazenar os produtos e suas respectivas quantidades.
+O programa deve validar as entradas do usuário, garantindo que apenas valores válidos sejam inseridos.
+Ao encerrar o programa, o sistema deve sair de forma limpa, exibindo uma mensagem de despedida.
+Critérios de Avaliação:
+
+Funcionamento correto do sistema.
+Validação de entradas do usuário.
+Clareza e organização do código.
+Uso adequado de funções e estruturas de dados.
